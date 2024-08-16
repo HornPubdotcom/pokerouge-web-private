@@ -22,8 +22,6 @@ node: 18.3.0
 ## 🪧 To Do
 Check out our [Trello Board](https://trello.com/b/z10B703R/pokerogue-board) to see what we're working on
 
-# 📝 Credits
-> If this project contains assets you have produced and you do not see your name here, **please** reach out.
 
 ### 🎵 BGM
   - Pokémon Mystery Dungeon: Explorers of Sky
